@@ -9,6 +9,10 @@ First and foremost, this repository primarily contains the list of skills I use 
 
 Read the contents of skills/llms.txt in the repository, and pick a few that suit your needs — I'm using **gpt-taste**.
 
+### [gsap-skills](https://github.com/greensock/gsap-skills)
+
+Design professional page animations.
+
 ## Software Development
 
 ### [superpowers](https://github.com/obra/superpowers)
